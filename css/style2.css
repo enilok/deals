@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    border: 1px solid rgba(0, 0, 0, 0.564);
+
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+
+}
+
+.tag {
+    margin: 20px;
+}
+
+.topic {
+    padding-top: 30px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub-topic {
+    padding: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.date {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.car1 {
+    padding: 20px 40px;
+    width: 200vh;
+}
+
+.title {
+    padding: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    line-height: 42px;
+    font-weight: 400;
+}
+
+.title1 {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    padding-bottom: 20px
+}
+
+.title2 {
+    padding: 20px 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.title3 {
+    padding: 0px 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.image {
+    padding: 20px;
+}
+
+.subs {
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+}
+
+.sin {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 42px;
+    padding: 10px;
+}
+
+.sub-sin {
+    padding: 20px;
+}
+
+.close {
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-close {
+    display: block;
+    gap: 20px;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+
+}
+.eni{
+    padding: 10px 20px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+}
+.ola{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
